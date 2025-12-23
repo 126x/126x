@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" style="border-radius:20px; max-width:100%;" />
+ <img src="banner.png" style="border-radius:20px; max-width:100%;" />
 </p>
 
 <h1 align="center">Engineer Mimi 🐾</h1>
