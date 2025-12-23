@@ -18,7 +18,7 @@
 
 <p align="center">
   <b>Software Engineer</b> with a strong interest in <b>system-level development</b><br/>
-  Focused on building <i>efficient, maintainable, and predictable</i> software
+  I don’t just write code, I engineer systems that are meant to last.
 </p>
 
 <p align="center">
