@@ -1,3 +1,3 @@
 ![banner](banner.png)
 
-# Mimi 👋
+# Engineer Mimi 🐾
