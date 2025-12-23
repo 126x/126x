@@ -14,10 +14,20 @@
   </a>
 </p>
 
-<hr/>
+<hr>
 
 <p align="center">
-  Software engineer with an interest in system-level development<br/>
-  Passionate about efficient, maintainable, and predictable code<br/>
+  Software engineer with an interest in system-level development<br>
+  Passionate about efficient, maintainable, and predictable code<br>
   Languages: C, C++, Python, Java, JavaScript, TypeScript, Go, Rust, Bash, SQL
+</p>
+
+<hr>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=126x&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=126x&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
