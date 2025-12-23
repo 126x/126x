@@ -13,3 +13,11 @@
     <img src="https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white">
   </a>
 </p>
+
+<hr/>
+
+<p align="center">
+  Software engineer with an interest in system-level development<br/>
+  Passionate about efficient, maintainable, and predictable code<br/>
+  Languages: C, C++, Python, Java, JavaScript, TypeScript, Go, Rust, Bash, SQL
+</p>
